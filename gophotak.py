@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 **********************************************************
 * gophotak.py - Utility to sort out Google Photo Takeout *
