@@ -61,7 +61,7 @@ def main():
     logging.info('%s ended', sys.argv[0])
         
 def initprog():
-    global SDIR, TDIR, OK
+    global SDIR, TDIR
     logging.basicConfig(filename='GoPhoTak.log', 
                         encoding='utf-8', 
                         format='%(asctime)s %(levelname)s:%(message)s', 
